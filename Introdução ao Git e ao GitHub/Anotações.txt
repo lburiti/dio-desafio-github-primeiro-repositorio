@@ -1,2 +1,11 @@
 Link para Download do Git: https://git-scm.com/downloads
-# Git Bash é um terminal estendido para otimizar o uso do Git.
+
+* Git Bash é um terminal estendido para otimizar o uso do Git.
+
+Comandos úteis:
+
+* git clone https://github.com/lburiti/dio-desafio-github-primeiro-repositorio.git
+* git status
+* git add . ou git add *
+* git commit -m "Inclusão das anotações do curso de Git/GitHub"
+* git push origin main
